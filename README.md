@@ -1,5 +1,5 @@
 ```
-struct Engineer {
+pub struct Engineer {
     name: "Parvez Ali",
     role: "Intern Mobile App Developer @ BDJobs.com Ltd",
     education: "B.Sc. (Engg.) in ICE @ PUST (CGPA: 3.50/4.00)",
