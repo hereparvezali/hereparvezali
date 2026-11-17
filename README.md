@@ -42,4 +42,4 @@ pub struct Engineer {
 
 ### `~/top-contributed-languages`
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hereparvezali&layout=compact)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=hereparvezali&layout=compact&theme=transparent&hide_border=true&hide_title=true&langs_count=10)
