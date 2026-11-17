@@ -39,3 +39,7 @@ pub struct Engineer {
 * **Systems & Infra:** `Linux (Arch, Debian, Fedora, Ubuntu)` `Isolate Sandboxing` `Docker` `Nginx` `Git`
 
 * **Leadership:** Vice President @ ICE Association, PUST (2025–2026) · Session & Workshop Coordinator @ PUST Programming Club (2024–2026)
+
+### `~/top-contributed-languages`
+
+[![Top Langs](https://vercel.app)](https://github.com)
